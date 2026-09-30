@@ -84,6 +84,8 @@ You can follow the youtube series in the following [link](https://www.youtube.co
 
 ## 🚧 Roadmap
 
+- [ ] Change the default branch name from `master` to `main`
+
 See the [open issues](https://github.com/SimCoderYoutube/InstagramClone/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
